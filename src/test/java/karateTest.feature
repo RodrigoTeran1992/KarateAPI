@@ -6,7 +6,7 @@ Feature: plan de pruebas
     And header Content-Type = 'application/x-www-form-urlencoded'
     And form field Service = '5CD9FDAA-E77E-4EEE-A6AF-63CAF90CAA6D'
     And form field identificacion = '1002700969001'
-    And headers Authorization = '0D743317-C62B-4880-940F-01D122C69FD5'
+    And header Authorization = '0D743317-C62B-4880-940F-01D122C69FD5'
     When method post
 
 

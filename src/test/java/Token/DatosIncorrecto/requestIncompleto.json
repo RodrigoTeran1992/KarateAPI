@@ -1,0 +1,6 @@
+{
+    "AuthParameters": {
+        "PASSWORD": "123456"
+    },
+    "AuthFlow": "USER_PASSWORD_AUTH"
+}

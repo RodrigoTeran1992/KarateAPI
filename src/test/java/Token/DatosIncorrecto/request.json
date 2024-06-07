@@ -1,0 +1,8 @@
+{
+    "AuthParameters": {
+        "USERNAME": "noexiste@redb.ee",
+        "PASSWORD": "123456"
+    },
+    "AuthFlow": "USER_PASSWORD_AUTH",
+    "ClientId": "3bhufgn8v2642tvg6ppc7857fl"
+}
